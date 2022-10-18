@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://pediatre-tazmalt.github.io/docteur-guezoui/sitemap.xml
